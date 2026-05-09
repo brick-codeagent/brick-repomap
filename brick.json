@@ -1,0 +1,15 @@
+{
+  "name": "repomap",
+  "version": "0.1.0",
+  "description": "Codebase mapping and symbol search",
+  "type": "mcp",
+  "mcp": {
+    "command": "node",
+    "args": ["index.js"]
+  },
+  "capabilities": {
+    "tools": ["map_codebase", "find_symbol"],
+    "commands": [],
+    "hooks": []
+  }
+}

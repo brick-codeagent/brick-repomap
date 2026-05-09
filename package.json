@@ -1,0 +1,8 @@
+{
+  "name": "@brick/extension-repomap",
+  "version": "0.1.0",
+  "description": "Brick extension: codebase mapping and symbol search",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT"
+}
