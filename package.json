@@ -4,5 +4,9 @@
   "description": "Brick extension: codebase mapping and symbol search",
   "type": "module",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --check index.js"
+  }
 }

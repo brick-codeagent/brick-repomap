@@ -1,5 +1,9 @@
 # Brick Repomap Extension
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/brick-codeagent/brick-repomap/actions/workflows/ci.yml/badge.svg)](https://github.com/brick-codeagent/brick-repomap/actions/workflows/ci.yml)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](package.json)
+
 A Brick extension for codebase mapping and symbol search.
 
 ## Installation
